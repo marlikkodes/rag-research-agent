@@ -1,6 +1,8 @@
 ## Ownership
-- Owner: marvin Marlik telegram @solidity pope
+- Owner: Marvin Marlik (telegram @solidity pope)
 - Email: marlikkodes@gmail.com
+
+## Ownership
 
 # RAG Research Agent
 
