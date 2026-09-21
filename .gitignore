@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# ChromaDB stores. Each script writes its own collection directory
+# (chroma_agent, chroma_app, chroma_demo, chroma_main, chroma_rag), so match the
+# prefix rather than one fixed name — the earlier `data/chroma_db/` rule matched
+# none of them and would have published ~8 MB of scraped article text.
+data/

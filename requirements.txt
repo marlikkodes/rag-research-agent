@@ -1,0 +1,7 @@
+chromadb>=1.5
+python-dotenv>=1.0
+requests>=2.32
+streamlit>=1.35
+tavily-python>=0.7
+langgraph>=0.2
+langchain-core>=0.3
